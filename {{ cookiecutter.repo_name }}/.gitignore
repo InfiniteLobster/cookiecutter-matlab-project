@@ -1,0 +1,8 @@
+#ignoring temporary files
+*.asv #backups for matlab edit files
+*.log #logs 
+*~ #backup files from some text editors
+#ignoring generated binaries (MATLAB executables)
+*.mexmaci64 #macOS
+*.mexw64 #Windows
+*.mexa64 # Linux 
