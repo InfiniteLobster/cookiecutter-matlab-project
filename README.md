@@ -5,13 +5,13 @@ This is my base cookiecutter template for matlab projects. It provides structure
 ## Repository download
 
 ```bash
-git clone https://github.com/InfiniteLobster/cookiecutter-matlab-project?tab=readme-ov-file
+git clone https://github.com/InfiniteLobster/cookiecutter-matlab-project
 ```
 
 ## Template usage
 
 ```bash
-cookiecutter https://github.com/InfiniteLobster/cookiecutter-matlab-project?tab=readme-ov-file
+cookiecutter https://github.com/InfiniteLobster/cookiecutter-matlab-project
 ```
 
 ## Requirements
