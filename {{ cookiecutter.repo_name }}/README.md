@@ -51,7 +51,7 @@ runtests('tests')
 
 ## Version
 
-{{ cookiecutter.version }} ({{ cookiecutter.release_date }})
+{{ cookiecutter.version }} (Created: {% now 'utc', '%Y-%m-%d' %})
 
 ## License
 
