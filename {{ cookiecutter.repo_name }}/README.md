@@ -9,12 +9,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/{{ cookiecutter.repo_name }}.git
-```
-
-Add to MATLAB path:
-```matlab
-addpath('src{% if cookiecutter.is_package == 'no' %}/{{ cookiecutter.project_name }}{% endif %}');
+git clone <link to repo>
 ```
 
 ## Usage
@@ -34,7 +29,6 @@ result = main();
 
 See the `examples/` directory for usage examples.
 
-
 ## Testing
 
 ```matlab
@@ -43,7 +37,7 @@ runtests('tests')
 
 ## Requirements
 
-- MATLAB R20XXa or later
+- MATLAB R20{{cookiecutter.matlab_version}} or later
 
 ## Author
 

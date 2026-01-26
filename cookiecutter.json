@@ -4,5 +4,6 @@
     "is_package": ["no", "yes"],
     "author_name": "Your Name",
     "description": "A short description of the repository",
+    "matlab_version": "25a",
     "version": "0.1.0"
 }
