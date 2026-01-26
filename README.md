@@ -20,7 +20,7 @@ cookiecutter https://github.com/InfiniteLobster/cookiecutter-matlab-project
 
 ## Author
 
-InfiniteLobster [gh_acc](https://github.com/InfiniteLobster)
+[InfiniteLobster](https://github.com/InfiniteLobster)
 
 ## Version
 
