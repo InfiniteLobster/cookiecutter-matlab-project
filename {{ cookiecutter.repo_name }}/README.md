@@ -29,19 +29,17 @@ result = main();
 ```
 {% endif %}
 
-{% if cookiecutter.include_examples == 'yes' %}
+
 ## Examples
 
 See the `examples/` directory for usage examples.
-{% endif %}
 
-{% if cookiecutter.include_tests == 'yes' %}
+
 ## Testing
 
 ```matlab
 runtests('tests')
 ```
-{% endif %}
 
 ## Requirements
 
