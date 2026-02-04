@@ -6,3 +6,6 @@
 *.mexmaci64 #macOS
 *.mexw64 #Windows
 *.mexa64 # Linux 
+#ignoring data folders
+/data/
+/docs/
