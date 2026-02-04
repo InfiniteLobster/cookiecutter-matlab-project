@@ -37,7 +37,7 @@ runtests('tests')
 
 ## Requirements
 
-- MATLAB R20{{cookiecutter.matlab_version}} or later
+- MATLAB R20{{ cookiecutter.matlab_version }} or later
 
 ## Author
 
